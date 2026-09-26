@@ -8,7 +8,7 @@ I am [Rajat](https://www.rkgoyal.com/), a passionate and creative developer from
 
 ## 👋 About Me
 
-I’m a Software Development Engineer with over five years of comprehensive experience in software development, testing, and technical support. I hold a **B.Tech in Computer Science** from **Jaypee University of Engineering & Technology**. 
+I’m a Software Development Engineer of comprehensive experience in software development, testing, and technical support. I hold a **B.Tech in Computer Science** from **Jaypee University of Engineering & Technology**. 
 
 Currently, I’m working as a **Software Development Engineer (Level 2)** at **Metavm Platform Pvt. Ltd.**, where I focus on building and maintaining robust applications using modern web technologies. My expertise spans a wide range of technologies, including:
 
